@@ -1,85 +1,80 @@
-# 🚀 My Awesome Portfolio
+# 🚀 Mi Portafolio Increíble
 
 [![React](https://img.shields.io/badge/React-19.2.5-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.0.10-646CFF.svg)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Welcome to my personal portfolio! This is a sleek, modern web application built with React and Vite, showcasing my projects, skills, and experience. It's designed to be fast, responsive, and visually stunning.
+¡Bienvenido a mi portafolio personal! Esta es una aplicación web moderna y elegante construida con React y Vite, que muestra mis proyectos, habilidades y experiencia. Está diseñada para ser rápida, responsiva y visualmente impresionante.
 
-## ✨ Features
+## ✨ Características
 
-- **Responsive Design**: Looks great on all devices - desktop, tablet, and mobile
-- **Dark/Light Mode Toggle**: Switch between themes with a single click
-- **Smooth Animations**: Engaging transitions and hover effects
-- **Project Showcase**: Highlight your best work with interactive cards
-- **Skills Section**: Display your technical expertise
-- **Contact Form**: Easy way for visitors to reach out
-- **Fast Loading**: Optimized with Vite for lightning-fast performance
+- **Diseño Responsivo**: Se ve genial en todos los dispositivos - escritorio, tablet y móvil
+- **Modo Oscuro/Claro**: Cambia entre temas con un solo clic
+- **Animaciones Suaves**: Transiciones atractivas y efectos hover
+- **Muestra de Proyectos**: Destaca tu mejor trabajo con tarjetas interactivas
+- **Sección de Habilidades**: Muestra tu experiencia técnica
+- **Formulario de Contacto**: Forma fácil para que los visitantes se comuniquen
+- **Carga Rápida**: Optimizada con Vite para un rendimiento ultrarrápido
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías Utilizadas
 
 - **Frontend**: React 19, JavaScript
-- **Build Tool**: Vite
-- **Styling**: CSS3 with custom properties
+- **Herramienta de Construcción**: Vite
+- **Estilos**: CSS3 con propiedades personalizadas
 - **Linting**: ESLint
-- **Deployment**: Ready for Vercel, Netlify, or any static hosting
+- **Despliegue**: Listo para Vercel, Netlify, o cualquier hosting estático
 
-## 🚀 Installation
+## 🚀 Instalación
 
-1. **Clone the repository**
+1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
-   cd portfolio
+   git clone https://github.com/tuusuario/portafolio.git
+   cd portafolio
    ```
 
-2. **Install dependencies**
+2. **Instala las dependencias**
    ```bash
    npm install
    ```
 
-3. **Start the development server**
+3. **Inicia el servidor de desarrollo**
    ```bash
    npm run dev
    ```
 
-4. **Open your browser** and visit `http://localhost:5173`
+4. **Abre tu navegador** y visita `http://localhost:5173`
 
-## 📖 Usage
+## 📖 Uso
 
-- Navigate through different sections using the navbar
-- Toggle between dark and light modes
-- Explore projects by clicking on the project cards
-- Use the contact form to send messages
+- Navega por las diferentes secciones usando la barra de navegación
+- Alterna entre modos oscuro y claro
+- Explora proyectos haciendo clic en las tarjetas de proyecto
+- Usa el formulario de contacto para enviar mensajes
 
-## 📸 Screenshots
+## 📸 Capturas de Pantalla
 
-![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Screenshot)
+![alt text](image.png)
 
-*Add your own screenshots here to showcase your portfolio*
+*Agrega tus propias capturas aquí para mostrar tu portafolio*
 
-## 🤝 Contributing
+## 🤝 Contribuyendo
 
-Contributions are welcome! If you have suggestions or improvements:
+¡Las contribuciones son bienvenidas! Si tienes sugerencias o mejoras:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Haz un fork del repositorio
+2. Crea una rama de funcionalidad (`git checkout -b feature/funcionalidad-increible`)
+3. Confirma tus cambios (`git commit -m 'Agrega funcionalidad increíble'`)
+4. Sube a la rama (`git push origin feature/funcionalidad-increible`)
+5. Abre un Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📞 Contacto
 
-## 📞 Contact
-
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub](https://github.com/yourusername)
-- **Website**: [Live Demo](https://yourportfolio.com)
+- **Email**: ezequieljoelgallardo@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/joel-ezequiel-gallardo-b4591a345/
+- **Sitio Web**: [Demo en Vivo](https://tuportafolio.com)
 
 ---
 
-Made with ❤️ and lots of ☕ by [Your Name]
+Hecho con ❤️ y mucho ☕ por J. Ezequiel Gallardo
 
-*Star this repo if you found it helpful!* ⭐

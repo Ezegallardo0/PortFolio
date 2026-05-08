@@ -4,7 +4,7 @@ function Contact() {
       <h2><i className="bx bx-envelope"></i> Contacto</h2>
 
       <div className="contact">
-        <p><i className="bx bx-envelope"></i> (tu email acá)</p>
+        <p><i className="bx bx-envelope"></i> ezequieljoelgallardo@gmail.com</p>
 
         <p>
           <i className="bx bxl-github"></i>

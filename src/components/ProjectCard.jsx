@@ -11,7 +11,7 @@ function ProjectCard({ title, description, tech, link, tag, icon }) {
 
       {link && (
         <a href={link} target="_blank">
-          <i className="bx bx-link-external"></i> Ver proyecto
+          <i className="bx bx-link-external"></i> Ver código
         </a>
       )}
 

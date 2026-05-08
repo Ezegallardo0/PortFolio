@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <p>© 2026 Ezequiel Gallardo</p>
+      <a href="https://github.com/Ezegallardo0">© 2026 J. Ezequiel Gallardo</a>
     </footer>
   );
 }

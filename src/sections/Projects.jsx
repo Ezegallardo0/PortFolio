@@ -8,26 +8,31 @@ function Projects() {
       <div className="projects">
         <ProjectCard
           title="ControlStock - Sistema de Inventario"
-          description="Aplicación web para gestión de inventario."
-          tech="React · JavaScript · HTML · CSS · LocalStorage"
+          description="Aplicación web para gestión de inventario. En desarrollo"
+          tech="React · JavaScript · CSS · LocalStorage"
           link="https://github.com/Ezegallardo0/Desafio1"
-          tag="React App"
           icon="bx-package"
         />
 
         <ProjectCard
-          title="App de Multas"
+          title="App de Multas (Solo Frontend)"
           description="Consulta de infracciones por patente o DNI."
-          tag="En desarrollo"
+          tech="React · JavaScript · CSS"
           icon="bx-car"
+          link="https://github.com/Ezegallardo0/checkmultas"
         />
-
+        <ProjectCard 
+        title="EstrenosStudios"
+        description="Pagina de Frontend de seleccion de peliculas"
+        tech="React · JavaScript · CSS"
+        icon="bx bx-movie"
+        link="https://github.com/Ezegallardo0/Estrenos-Arg-main"/>
         <ProjectCard
-          title="Portfolio Personal"
-          description="Sitio donde presento mis proyectos."
-          tag="Actual"
-          icon="bx-user-circle"
-        />
+        title="UnchartedWiki"
+        description="Una pagina dedicada a la saga de videojuego Uncharted"
+        tech="React · JavaScript · CSS"
+        icon="bx bx-joystick"
+        link="https://github.com/Ezegallardo0/uncharted_wiki"/>
       </div>
     </section>
   );
